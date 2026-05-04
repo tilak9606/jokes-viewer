@@ -2,9 +2,9 @@
 
 A React-based jokes viewer interface using the Random Jokes API.
 
-**Live Demo:** 
+**Live Demo:** https://jokes-viewer-theta.vercel.app/
 
-**GitHub Repo:** 
+**GitHub Repo:** https://github.com/tilak9606/jokes-viewer
 
 ---
 
@@ -37,7 +37,7 @@ https://api.freeapi.app/api/v1/public/randomjokes
 ### Getting Started
 
 ```bash
-git clone 
+git clone git@github.com:tilak9606/jokes-viewer.git
 cd jokes-viewer
 npm install
 npm run dev
